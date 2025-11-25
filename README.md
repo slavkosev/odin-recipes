@@ -1,0 +1,1 @@
+This is my first project withing The Odin Project course. I have demonstrated basic HTML skills.  
